@@ -1,4 +1,4 @@
-# Checklist for  facebook(http:facebook.com)
+# Checklist for  [facebook](https://www.facebook.com/)
 # Log in 
 1.1 Check Log in with valid data (smoke test)
 
