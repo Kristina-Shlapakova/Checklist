@@ -1,5 +1,5 @@
 # Checklist for  [facebook](https://www.facebook.com/)
-# [Log in](https://www.facebook.com/)
+## [Log in](https://www.facebook.com/)
 1.1 Check Log in with valid data (smoke test)
 
 Expected result: log in to  account
@@ -32,7 +32,7 @@ Expected result: log in to  account
 
 Expected result: unable to log in
 
-# [Forgot Password](https://ru-ru.facebook.com/login/identify/?ctx=recover&ars=facebook_login&from_login_screen=0)
+## [Forgot Password](https://ru-ru.facebook.com/login/identify/?ctx=recover&ars=facebook_login&from_login_screen=0)
 2.1 Сheck the valid value (smoke test)
 
 Expected result: the page for entering the sms code opens
@@ -41,7 +41,7 @@ Expected result: the page for entering the sms code opens
 
 Expected result: еrror message
 
-# [Sign Up](https://www.facebook.com/r.php?locale=ru_RU&display=page)
+## [Sign Up](https://www.facebook.com/r.php?locale=ru_RU&display=page)
 3.1 Check all fields with valid data 
 
 Expected result: sign up to  account
