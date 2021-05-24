@@ -19,12 +19,12 @@ Expected result: Unable to log in (smoke test)
 1.7 Сheck the email with spaces at the beginning and end
 
 1.8 Сheck the unregistered login or phone number
-
 # Forgot Password
-
 2.1 Сheck the valid value
 
 2.2 Сheck the unregistered login or phone number
+
+# Sign Up
 
 
 
