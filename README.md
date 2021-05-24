@@ -50,17 +50,17 @@ Expected result: sign up to  account
 
 Expected result: error message
 
-3.4 Check the phone number/email already registered users (smoke test)
+3.3 Check the phone number/email already registered users (smoke test)
 
 Expected result: unable to Sign up, error message
 
-3.5 Check the fields for the max/min number of symbols (critical pass)
+3.4 Check the fields for the max/min number of symbols (critical pass)
 
-3.6  The date of birth  select the current year (critical pass)
+3.5  The date of birth  select the current year (critical pass)
 
 Expected result: unable to Sign up, error message
 
-3.7 Enter first name in latin, last name in cyrillic ( extendet test)
+3.6 Enter first name in latin, last name in cyrillic ( extendet test)
 
 Expected result: unable to Sign up
  
