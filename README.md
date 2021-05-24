@@ -1,6 +1,6 @@
 # Checklist for facebook.com 
 # Log in 
-1.1 Check Log in with valid fields (smoke test)
+1.1 Check Log in with valid data (smoke test)
 
 Expected result: log in to  account
 
@@ -25,13 +25,11 @@ Expected result: Unable to log in (smoke test)
 2.2 Сheck the unregistered login or phone number
 
 # Sign Up
+3.1 Check all fields with valid data
 
+3.2 Not fill  the required fields, click Sign Up
 
+3.4 Check the phone number/email already registered users
 
-
-
-
-
-
-1.7 Check the fields for the max number of symbols
+3.5 Check the fields for the max number of symbols
 
