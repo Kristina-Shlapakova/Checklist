@@ -37,7 +37,7 @@ Expected result: Unable to log in
 
 2.2 Сheck the unregistered login or phone number
 
-# Sign Up
+# [Sign Up](https://www.facebook.com/r.php?locale=ru_RU&display=page)
 3.1 Check all fields with valid data
 
 3.2 Not fill  the required fields, click Sign Up
