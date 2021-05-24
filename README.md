@@ -32,7 +32,7 @@ Expected result: log in to  account
 
 Expected result: Unable to log in
 
-# Forgot Password
+# [Forgot Password](https://ru-ru.facebook.com/login/identify/?ctx=recover&ars=facebook_login&from_login_screen=0)
 2.1 Сheck the valid value
 
 2.2 Сheck the unregistered login or phone number
