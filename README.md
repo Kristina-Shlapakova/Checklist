@@ -44,7 +44,7 @@ Expected result: еrror message
 # [Sign Up](https://www.facebook.com/r.php?locale=ru_RU&display=page)
 3.1 Check all fields with valid data 
 
-Expected result:
+Expected result: sign up to  account
 
 3.2 Not fill  the required fields, click Sign Up (critical pass)
 
