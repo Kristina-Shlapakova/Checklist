@@ -1,5 +1,5 @@
 # Checklist for facebook.com 
-# log in 
+# Log in 
 1.1 Check Log in with valid fields (smoke test)
 
 Expected result: log in to  account
@@ -20,7 +20,7 @@ Expected result: Unable to log in (smoke test)
 
 1.8 Сheck the unregistered login or phone number
 
-Forgot Password
+# Forgot Password
 
 2.1 Сheck the valid value
 
