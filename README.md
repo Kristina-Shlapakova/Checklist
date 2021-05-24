@@ -31,5 +31,12 @@ Expected result: Unable to log in (smoke test)
 
 3.4 Check the phone number/email already registered users
 
-3.5 Check the fields for the max number of symbols
+3.5 Check the fields for the max/min number of symbols
+
+3.6  The date of birth  select the current year
+
+3.7 Enter first name in latin, last name in cyrillic
+
+
+
 
