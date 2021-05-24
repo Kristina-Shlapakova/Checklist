@@ -22,6 +22,12 @@ Expected result: Unable to log in (smoke test)
 
 Forgot Password
 
+2.1 Сheck the valid value
+
+2.2 Сheck the unregistered login or phone number
+
+
+
 
 
 
