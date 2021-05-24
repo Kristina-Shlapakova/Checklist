@@ -4,19 +4,31 @@
 
 Expected result: log in to  account
 
-1.2 Check Log in with empty fields
+1.2 Check Log in with empty fields(smoke test)
 
-Expected result: Unable to log in (smoke test)
+Expected result: Unable to log in
 
 1.3 Check Log in with empty Login
 
+Expected result: Unable to log in
+
 1.4 Check Log in with empty Password
+
+Expected result: Unable to log in
 
 1.5 Check Log in with incorrect Login
 
+Expected result: Unable to log in
+
 1.6 Check Log in with incorrect Password
 
+Expected result: Unable to log in
+
 1.7 Сheck the email with spaces at the beginning and end
+
+Expected result: log in to  account
+
+
 
 1.8 Сheck the unregistered login or phone number
 # Forgot Password
